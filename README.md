@@ -1,5 +1,3 @@
-Here's a README file for your **Foodie Heaven** project, styled similarly to the **Fraud Detection System** example you provided:
-
 ---
 
 # Foodie Heaven 🍽️✨
